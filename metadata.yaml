@@ -1,0 +1,42 @@
+_repo: '---_26904'
+_version: 0.1.0
+alternative_title: Tian Bao Tu
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Unknown
+    gutenberg_agent_id: '49'
+    url: http://www.gutenberg.org/2009/agents/49
+    wikipedia: http://www.gutenberg.org/browse/authors/a#a216
+  editors:
+  - agent_name: Liu, Cun Ren
+    gutenberg_agent_id: '32319'
+    url: http://www.gutenberg.org/2009/agents/32319
+  - agent_name: Li, Zhi Zhong
+    gutenberg_agent_id: '32318'
+    url: http://www.gutenberg.org/2009/agents/32318
+  - agent_name: Hou, Zhong Yi
+    gutenberg_agent_id: '32320'
+    url: http://www.gutenberg.org/2009/agents/32320
+  - agent_name: Li, Tian Yi
+    gutenberg_agent_id: '32305'
+    url: http://www.gutenberg.org/2009/agents/32305
+  - agent_name: An, Ping Qiu
+    gutenberg_agent_id: '32304'
+    url: http://www.gutenberg.org/2009/agents/32304
+description: ''
+gutenberg_issued: '2008-10-12'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '26904'
+language: zh
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PL'
+- !lcsh 'China -- History -- Song dynasty, 960-1279 -- Fiction'
+title: 天豹圖
+url: http://www.gutenberg.org/ebooks/26904
